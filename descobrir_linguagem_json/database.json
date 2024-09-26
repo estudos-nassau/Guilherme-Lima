@@ -1,0 +1,26 @@
+[
+{
+    "descrição": "Linguagem boa de usar",
+    "python": "python",
+    "detalhes_linguagem" : {
+        "dificuldade": "facil",
+        "avaliacao_media": "7"
+
+    }
+    
+},
+
+{
+    "descrição": "Linguagem media de usar",
+    "java": "java",
+    "detalhes_linguagem" : {
+        "dificuldade": "media",
+        "avaliacao_media": "6"
+
+    }
+    
+}
+
+]
+
+
